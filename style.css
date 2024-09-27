@@ -1,0 +1,33 @@
+element {
+}
+body, html {
+  padding: 0;
+  margin: 0;
+  font-family: 'Source Sans Pro', 'Helvetica', 'Lucida Grande', 'Arial', sans-serif;
+  background: #1f1f1f;
+  color: white
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+}
+a {
+    color: rgb(240, 210, 255);
+  }
+.countup {
+    text-align: center;
+    margin: 120px;
+}
+  .wrapper > div img {
+    display: none;
+  }
+  .rndmImage {
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
