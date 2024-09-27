@@ -1,5 +1,3 @@
-element {
-}
 body, html {
   padding: 0;
   margin: 0;
@@ -18,7 +16,7 @@ a {
   }
 .countup {
     text-align: center;
-    margin: 120px;
+    margin: 20px;
 }
   .wrapper > div img {
     display: none;
